@@ -1,0 +1,55 @@
+[33m44d29c4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m agrego commit -am
+[33mba97165[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'master' of https://github.com/canodelacuadra/curso-de-git
+[33mebbcd41[m github pages
+[33ma84d05f[m Set theme jekyll-theme-slate
+[33m299cb5b[m agrego cheetsheet
+[33m2139980[m reestructuro apuntes
+[33m5c1f9d9[m[33m ([m[1;33mtag: 0.1.0[m[33m)[m Merge pull request #14 from craftsmanship-toledo/dev
+[33md449bca[m Merge pull request #13 from javierlopezdeancos/dev
+[33md5e0efe[m Merge pull request #3 from javierlopezdeancos/feature-add-section-9
+[33m630d37a[m Merge pull request #9 from mdelapenya/pr-2
+[33m3df6cb2[m Merge pull request #10 from mdelapenya/pr-3
+[33mfe7b801[m Merge pull request #11 from mdelapenya/pr-4
+[33mf735538[m Add links documentation and tutorials section
+[33mbf88020[m Add link to section 9
+[33m52cebf3[m Fix typos
+[33m2aacfc7[m Add merge management and mergetool configuration section
+[33m8386c7d[m add link to mergetool section in index
+[33m201906a[m Add revert and recover when somethig was wrong section
+[33m2bdbbaf[m fix error in save changes in stash article
+[33m03b275c[m Merge pull request #1 from mdelapenya/feature/pr-7
+[33mbe04017[m Add description for 'pop' operation
+[33mfd4f0b4[m Fix typos
+[33mdc89814[m Add new stash management section
+[33m4b64c46[m Add link remote repositories section
+[33md74dd7b[m add link to exercise 8
+[33m060c37f[m Add link in exercise 7 index title
+[33mbc0868b[m Merge pull request #6 from mdelapenya/feature/rebase-interactivo
+[33mcd27723[m Add rebase section
+[33m29d0bf7[m Add rebase interactive section
+[33m317b9d6[m Merge branch 'feature/pr-5' into dev
+[33mcb47822[m Fix typos
+[33mb31725c[m fix - fix some errors in exercise 0
+[33mf3a4144[m feature - add exercise 3
+[33ma79e18b[m Fix - fix some errors in exercise 2
+[33mf933b9c[m Fix - fix some errors in exercise one
+[33m96bad49[m Fix - Add links to other exercices index
+[33m2731613[m feature - add links to exercises 0,1,2,3
+[33md1400cf[m feature - add new exercise 2 template
+[33mf24a658[m refactor - change exercises structure to more legibility
+[33m65b8fc2[m Merge pull request #3 from mdelapenya/feature/fork
+[33me85b082[m Merge pull request #4 from mdelapenya/feature/git-add-partial
+[33m9e538b0[m Fix typos
+[33m6001791[m Explain partial additions of files to the stage area
+[33m2dac720[m Fix typos
+[33mda55a3b[m Create fork section
+[33ma3361c4[m Merge branch 'feature/pr-2' into dev
+[33m75d3d79[m Fix typos
+[33m769e60b[m Use markdown format for code
+[33m8819ae8[m Change folder name
+[33m028a436[m Fix some words expresions
+[33mc0c293b[m Add more information to rewrite a bad commit message
+[33m3d3e31e[m Rename bad folder name and add ejercicio 0
+[33m8bec283[m Add new folder with exercise one
+[33m34ae74f[m Add index to git workshop
+[33m971aba5[m initial commit add README

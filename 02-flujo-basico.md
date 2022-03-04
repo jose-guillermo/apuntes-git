@@ -54,6 +54,8 @@ $ git commit -m "describe de una manera sencilla tus cambios"
 ```
 #### git commit -am
 git commin -am es un atajo de git add y git commit
+git commit -a -m es una versión del anterior atajo
+
 #### Reescribir un commit mal escrito
 
 Podemos editar un commit mal escrito (antes de empujarlo a un sitio remoto) con el siguiente comando:
